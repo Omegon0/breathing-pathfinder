@@ -4,4 +4,6 @@ I built this so that I can relax by syncing my breathing with the device that i'
 
 It's a very simple device. 
 
-
+![PCB](https://github.com/Omegon0/emg/blob/main/traces.jpg?raw=true)
+![PCBF](https://github.com/Omegon0/emg/blob/main/front.jpg?raw=true)
+![PCBB](https://github.com/Omegon0/emg/blob/main/back.jpg?raw=true)
